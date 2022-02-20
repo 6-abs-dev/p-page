@@ -1,2 +1,3 @@
-# p-page
-Personal page for GitHubPages
+Персональная посадочная страница для GitHub Pages
+
+6-abs-dev.github.io/p-page/
